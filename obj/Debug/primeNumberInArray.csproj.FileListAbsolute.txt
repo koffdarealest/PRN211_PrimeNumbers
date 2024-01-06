@@ -1,0 +1,7 @@
+D:\SE\Spring24_\PRN211\primeNumberInArray\bin\Debug\primeNumberInArray.exe.config
+D:\SE\Spring24_\PRN211\primeNumberInArray\bin\Debug\primeNumberInArray.exe
+D:\SE\Spring24_\PRN211\primeNumberInArray\bin\Debug\primeNumberInArray.pdb
+D:\SE\Spring24_\PRN211\primeNumberInArray\obj\Debug\primeNumberInArray.csproj.AssemblyReference.cache
+D:\SE\Spring24_\PRN211\primeNumberInArray\obj\Debug\primeNumberInArray.csproj.CoreCompileInputs.cache
+D:\SE\Spring24_\PRN211\primeNumberInArray\obj\Debug\primeNumberInArray.exe
+D:\SE\Spring24_\PRN211\primeNumberInArray\obj\Debug\primeNumberInArray.pdb
